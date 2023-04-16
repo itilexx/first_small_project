@@ -1,1 +1,2 @@
-# first_small_project
+# small_project
+
